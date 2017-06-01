@@ -1,2 +1,2 @@
-const colorGen = require('./lib/colorGen')
+const colorGen = require('./dist/colorGen')
 module.exports = colorGen
