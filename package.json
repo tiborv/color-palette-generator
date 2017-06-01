@@ -1,0 +1,23 @@
+{
+  "name": "pie-chart-color-generator",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "yarn run lint && ava"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ava": "^0.19.1",
+    "color": "^1.0.3",
+    "standard": "^10.0.2"
+  },
+   "ava": {
+    "files": [
+      "test/**/*.js"
+    ],
+    "tap": true
+   }
+}

@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+- 7
+deploy:
+  provider: npm
+  email: "m@tib.im"
+  api_key:
+    secure: $API_KEY
+  on:
+    branch: master
+  skip_cleanup: true
