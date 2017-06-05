@@ -1,6 +1,6 @@
-# pie-chart-color-generator [![Build Status](https://travis-ci.org/tiborv/pie-chart-color-generator.svg?branch=master)](https://travis-ci.org/tiborv/pie-chart-color-generator)
+# pie-chart-color-generator [![Build Status](https://travis-ci.org/tiborv/pie-chart-color-generator.svg?branch=master)](https://travis-ci.org/tiborv/pie-chart-color-generator) [![Greenkeeper badge](https://badges.greenkeeper.io/tiborv/pie-chart-color-generator.svg)](https://greenkeeper.io/)
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/tiborv/pie-chart-color-generator.svg)](https://greenkeeper.io/)
+
 
 ## Example
 ```js
