@@ -1,4 +1,4 @@
-# pie-chart-color-generator [![Build Status](https://travis-ci.org/tiborv/pie-chart-color-generator.svg?branch=master)](https://travis-ci.org/tiborv/pie-chart-color-generator) [![Greenkeeper badge](https://badges.greenkeeper.io/tiborv/pie-chart-color-generator.svg)](https://greenkeeper.io/)
+# color-palette-generator [![Build Status](https://travis-ci.org/tiborv/color-palette-generator.svg?branch=master)](https://travis-ci.org/tiborv/color-palette-generator) [![Greenkeeper badge](https://badges.greenkeeper.io/tiborv/color-palette-generator.svg)](https://greenkeeper.io/)
 
 
 
