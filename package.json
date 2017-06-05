@@ -1,11 +1,11 @@
 {
-  "name": "pie-chart-color-generator",
-  "version": "1.0.7",
+  "name": "color-palette-generator",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "lint": "standard",
-    "test": "yarn run lint && ava",
+    "test": "yarn run lint && yarn run build && ava",
     "build": "BABEL_ENV=production babel lib --out-dir dist"
   },
   "author": "",
@@ -36,6 +36,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tiborv/pie-chart-color-generator.git"
+    "url": "https://github.com/tiborv/color-palette-generator.git"
   }
 }
