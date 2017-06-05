@@ -1,7 +1,4 @@
-# color-palette-generator [![Build Status](https://travis-ci.org/tiborv/color-palette-generator.svg?branch=master)](https://travis-ci.org/tiborv/color-palette-generator) 
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/tiborv/color-palette-generator.svg?token=e2196b0ecb06015f7be45d5099b0aeaafb17ea7e477a202cc6b474559136f141&ts=1496667265590)](https://greenkeeper.io/)
-
+# color-palette-generator [![Build Status](https://travis-ci.org/tiborv/color-palette-generator.svg?branch=master)](https://travis-ci.org/tiborv/color-palette-generator) [![Greenkeeper badge](https://badges.greenkeeper.io/tiborv/color-palette-generator.svg?token=e2196b0ecb06015f7be45d5099b0aeaafb17ea7e477a202cc6b474559136f141&ts=1496667265590)](https://greenkeeper.io/)
 ## Example
 ```js
 const colorGen = require('pie-chart-color-generator')
