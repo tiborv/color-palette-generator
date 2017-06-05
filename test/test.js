@@ -1,9 +1,8 @@
-const colorGen = require('../lib/colorGen')
+const colorGen = require('../')
 const { test } = require('ava')
 
 test('test', t => {
-  const colors = colorGen('#d60000', 12)
-  t.deepEqual(colors, [
+  const colors = [
     '#D60000',
     '#D64700',
     '#D68F00',
@@ -16,6 +15,8 @@ test('test', t => {
     '#00D6D6',
     '#008FD6',
     '#0047D6'
-  ])
-  t.is(colors.length, 12)
+  ]
+  const genColors = colorGen('#d60000', 12)
+  t.deepEqual(colors, genColors)
+  t.is(colors.length, genColors.length)
 })
