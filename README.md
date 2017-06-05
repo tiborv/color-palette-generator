@@ -1,5 +1,7 @@
 # pie-chart-color-generator [![Build Status](https://travis-ci.org/tiborv/pie-chart-color-generator.svg?branch=master)](https://travis-ci.org/tiborv/pie-chart-color-generator) [![Greenkeeper badge](https://badges.greenkeeper.io/tiborv/pie-chart-color-generator.svg)](https://greenkeeper.io/)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiborv/color-palette-generator.svg?token=e2196b0ecb06015f7be45d5099b0aeaafb17ea7e477a202cc6b474559136f141&ts=1496660914912)](https://greenkeeper.io/)
+
 
 
 ## Example
