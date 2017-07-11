@@ -8,7 +8,7 @@
     "test": "yarn run lint && yarn run build && ava",
     "build": "BABEL_ENV=production babel lib --out-dir dist"
   },
-  "author": "",
+  "author": "Tibor Vukovic <m@tib.im>",
   "license": "ISC",
   "dependencies": {
     "ava": "^0.20.0",
