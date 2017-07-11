@@ -6,7 +6,8 @@
   "scripts": {
     "lint": "standard",
     "test": "yarn run lint && yarn run build && ava",
-    "build": "BABEL_ENV=production babel lib --out-dir dist"
+    "build": "BABEL_ENV=production babel lib --out-dir dist",
+    "postinstall": "npm run build"
   },
   "author": "Tibor Vukovic <m@tib.im>",
   "license": "ISC",
